@@ -10,7 +10,7 @@ main:
  #   url: /teaching/    
     
   - title: "Projects"
-    url: /_portfolio/portfolio-1.md
+    url: /files/Raja_resume.pdf
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /files/Raja_resume.pdf
     
- # - title: "Guide"
- #   url: /markdown/
+#  - title: "Visualization"
+#    url: /markdown/
