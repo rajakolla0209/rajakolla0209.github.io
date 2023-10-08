@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /files/Raja_resume.pdf
     
-#  - title: "Visualization"
-#    url: /markdown/
+  - title: "Visualization"
+    url: /images/Boxplot_reservoir.png
